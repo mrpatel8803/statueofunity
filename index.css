@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header css start */
+
+.logo img{
+    width: 150px;
+    height: 150px;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 7%;
+    font-size: 20px;
+}
+
+p{
+    font-size: 22px;
+    color: white;
+}
+
+/* header css over */
+
+/* content css start */
+
+.content_pare{
+    width: 40%;
+    font-size: 18.7px;
+    color: white;
+}
+
+.tagline{
+    font-size: 50px;
+    color: rgb(241, 211, 45);
+
+}
+
+.taglatters{
+    font-size: 25px;
+    color: rgb(241, 211, 45);
+}
+
+.tall_pare{
+    font-size: 28px;
+    color: violet;
+}
+
+/* content css over */
+
+/* footer css start */
+
+.social{
+    color: white;
+}
+
+/* footer css over */
